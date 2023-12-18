@@ -3,10 +3,9 @@
 #include <stdio.h>
 
 /**
+ * main - entry point
  *
- * main - enty point
- *
- * Description : positive or negative
+ * Description : false or true validation
  *
  * Return: Always 0 (Success)
 */
